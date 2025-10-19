@@ -1,5 +1,5 @@
-# DCC012 - Estrutura de Dados II
+# Templatezada
 ## Trabalho Prático 
 
 ### Membros do Grupo
-Inserir: Nome/Matricula/E-mail
+Inserir:
